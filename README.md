@@ -1,9 +1,9 @@
-# Data Mining Project: Melbourne Housing & IMDB Dataset
+# Data Mining Project: Vegetable Image, Melbourne Housing & IMDB Dataset
 
 ## Tổng quan
 Dự án này thực hiện phân tích, tiền xử lý và trực quan hóa dữ liệu trên ba loại dữ liệu:
+- **Dữ liệu hình ảnh**: Vegetable Image Dataset (Bộ ảnh rau củ)
 - **Dữ liệu tabular**: Melbourne Housing (giá nhà, đặc trưng bất động sản)
-- **Dữ liệu hình ảnh**: Bộ ảnh rau củ (Vegetable Image Dataset)
 - **Dữ liệu văn bản**: IMDB Movie Reviews
 
 Các notebook cung cấp các bước EDA, tiền xử lý, mã hóa, chuẩn hóa, phát hiện ngoại lai, phân tích văn bản và hình ảnh.
@@ -32,10 +32,10 @@ notebooks/
    - Mở thư mục `notebooks/` và chạy từng notebook theo thứ tự để xem các bước phân tích và tiền xử lý.
 
 ## Tài nguyên dữ liệu
-- **Melbourne Housing Dataset:**
-  - [Kaggle Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 - **Vegetable Image Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/kritikseth/vegetable-image-dataset)
+- **Melbourne Housing Dataset:**
+  - [Kaggle Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 - **IMDB Movie Reviews:**
   - [Kaggle Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
