@@ -33,7 +33,7 @@ notebooks/
 
 ## Tài nguyên dữ liệu
 - **Vegetable Image Dataset:**
-  - [Kaggle Link](https://www.kaggle.com/datasets/kritikseth/vegetable-image-dataset)
+  - [Kaggle Link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - **Melbourne Housing Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 - **IMDB Movie Reviews:**
