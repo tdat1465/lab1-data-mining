@@ -1,24 +1,22 @@
-# Data Mining Project: Vegetable Image, Melbourne Housing & IMDB Dataset
 
-## Tổng quan
-Dự án này thực hiện phân tích, tiền xử lý và trực quan hóa dữ liệu trên ba loại dữ liệu:
-- **Dữ liệu hình ảnh**: Vegetable Image Dataset (Bộ ảnh rau củ)
-- **Dữ liệu tabular**: Melbourne Housing (giá nhà, đặc trưng bất động sản)
-- **Dữ liệu văn bản**: IMDB Movie Reviews
+# Đồ án 1 môn Data Mining: Tiền xử lý dữ liệu
 
-Các notebook cung cấp các bước EDA, tiền xử lý, mã hóa, chuẩn hóa, phát hiện ngoại lai, phân tích văn bản và hình ảnh.
+## Thành viên nhóm
+- Trần Thanh Đạt (23120030)
+- Phạm Ngọc Duy (23120035)
+- Lê Minh Hải (23120041)
+- Huỳnh Đặng Ngọc Hân (23120042)
+- Nguyễn Mạnh Thắng (23120084)
 
-## Cấu trúc thư mục
-```
-notebooks/
-  01_EDA_image.ipynb              # Khám phá dữ liệu ảnh
-  02_preprocessing_image.ipynb     # Tiền xử lý dữ liệu ảnh
-  03_EDA_tabular.ipynb             # Khám phá dữ liệu tabular
-  04_preprocessing_tabular.ipynb   # Tiền xử lý dữ liệu tabular
-  05_text_preprocessing.ipynb      # Tiền xử lý dữ liệu văn bản
-```
+## Mô tả tập dữ liệu
+Dự án sử dụng 3 tập dữ liệu chính:
+- **Vegetable Image Dataset**: Bộ ảnh phân loại các loại rau củ với nhiều lớp khác nhau, dùng cho các bài toán xử lý ảnh.
+- **Melbourne Housing Dataset**: Dữ liệu dạng bảng về giá nhà và các đặc trưng bất động sản tại Melbourne, phục vụ phân tích dữ liệu tabular.
+- **IMDB Movie Reviews**: Dữ liệu văn bản gồm các đánh giá phim, dùng cho các bài toán xử lý ngôn ngữ tự nhiên.
 
-## Hướng dẫn cài đặt & chạy
+Các notebook cung cấp các bước khám phá, tiền xử lý, mã hóa, chuẩn hóa, phát hiện ngoại lai, phân tích văn bản và hình ảnh.
+
+## Hướng dẫn cài đặt môi trường & chạy notebook
 1. **Cài đặt Python >= 3.8**
 2. **Cài đặt các thư viện cần thiết:**
    ```bash
@@ -31,13 +29,21 @@ notebooks/
 4. **Chạy các notebook:**
    - Mở thư mục `notebooks/` và chạy từng notebook theo thứ tự để xem các bước phân tích và tiền xử lý.
 
-## Tài nguyên dữ liệu
+## Bảng phân công công việc
+
+| STT | Họ và tên              | MSSV      | Nhiệm vụ chi tiết                                         | Đóng góp |
+|-----|------------------------|-----------|-----------------------------------------------------------|----------|
+| 1   | Trần Thanh Đạt         | 23120030  | Nghiên cứu và thực hiện quy trình Tiền xử lý dữ liệu văn bản (Text Data). | 100%     |
+| 2   | Phạm Ngọc Duy          | 23120035  | Nghiên cứu và thực hiện quy trình Tiền xử lý dữ liệu ảnh số (Image Data). | 100%     |
+| 3   | Lê Minh Hải            | 23120041  | Tổng hợp báo cáo LaTeX, kiểm soát cấu trúc đồ án và chỉnh sửa mã nguồn hệ thống. | 100%     |
+| 4   | Huỳnh Đặng Ngọc Hân    | 23120042  | Nghiên cứu và thực hiện quy trình Tiền xử lý dữ liệu dạng bảng (Tabular Data). | 100%     |
+| 5   | Nguyễn Mạnh Thắng      | 23120084  | Tổng hợp báo cáo LaTeX, kiểm soát cấu trúc đồ án và chỉnh sửa mã nguồn hệ thống. | 100%     |
+
+## Link tài nguyên ngoài
 - **Vegetable Image Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - **Melbourne Housing Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
 - **IMDB Movie Reviews:**
   - [Kaggle Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-
-## Liên hệ
-- Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ nhóm thực hiện qua email hoặc github.
+  
