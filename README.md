@@ -43,7 +43,7 @@ Các notebook cung cấp các bước khám phá, tiền xử lý, mã hóa, chu
 - **Vegetable Image Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - **Melbourne Housing Dataset:**
-  - [Kaggle Link](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
+  - [Kaggle Link](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 - **IMDB Movie Reviews:**
   - [Kaggle Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
   
