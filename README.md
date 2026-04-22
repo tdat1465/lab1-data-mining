@@ -17,16 +17,18 @@ Dự án sử dụng 3 tập dữ liệu chính:
 Các notebook cung cấp các bước khám phá, tiền xử lý, mã hóa, chuẩn hóa, phát hiện ngoại lai, phân tích văn bản và hình ảnh.
 
 ## Hướng dẫn cài đặt môi trường & chạy notebook
-1. **Cài đặt Python >= 3.8**
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/tdat1465/lab1-data-mining.git
+   cd lab1-data-mining
+   ```
+
 2. **Cài đặt các thư viện cần thiết:**
    ```bash
    pip install -r requirements.txt
    ```
-3. **(Khuyến nghị) Cài đặt thêm model tiếng Anh cho spaCy:**
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
-4. **Chạy các notebook:**
+
+3. **Chạy các notebook:**
    - Mở thư mục `notebooks/` và chạy từng notebook theo thứ tự để xem các bước phân tích và tiền xử lý.
 
 ## Bảng phân công công việc
