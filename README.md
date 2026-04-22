@@ -42,8 +42,10 @@ Các notebook cung cấp các bước khám phá, tiền xử lý, mã hóa, chu
 ## Link tài nguyên ngoài
 - **Vegetable Image Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
+  - [Google Drive](https://drive.google.com/drive/folders/1bosPHZwVBqe9a6OX9Wz38dyIa0Eczre9?usp=sharing)
 - **Melbourne Housing Dataset:**
   - [Kaggle Link](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
 - **IMDB Movie Reviews:**
   - [Kaggle Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+  - [Google Drive](https://drive.google.com/file/d/16oEKgpSK5t23ATjd0i4PyB5iowOnsRLz/view?usp=sharing)
   
